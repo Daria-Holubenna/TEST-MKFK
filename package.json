@@ -1,11 +1,11 @@
 {
-  "name": "green-harvest-vite",
+  "name": "TEST-MKFK",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/green-harvest-vite/",
+    "build": "vite build --base=/TEST-MKFK/",
     "preview": "vite preview"
   },
   "devDependencies": {
