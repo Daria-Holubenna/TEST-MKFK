@@ -23,6 +23,8 @@
 }
 
 body {
+  font-family: "Inter Tight",
+    sans-serif;
   display: flex;
   flex-direction: column;
   min-width: 100vw;
